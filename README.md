@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Aditi Kapil</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
-<img align="center" alt="GIF" width="50%" height="50%" style="position:absolute" frameBorder="0" src="linkedin profil.png" />
+<img align="center" alt="GIF" width="50%" height="50%" style="position:absolute" frameBorder="0" src="https://github.com/Aditi31kapil/Aditi31kapil/assets/151728032/91d4156c-b9be-4db3-85e2-4b07f0697fc6">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi31kapil&label=Profile%20views&color=0e75b6&style=flat" alt="aditi31kapil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditi31kapil" alt="aditi31kapil" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning Artificial Intelligence, Programming languages like Python and C**
+- 🌱 I’m currently learning **Machine learning Artificial Intelligence,Programming languages like Python and C**
 
 - 📫 How to reach me **aditi31.kapil@gmail.com**
 

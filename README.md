@@ -1,7 +1,8 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <h1 align="center">Hi 👋, I'm Aditi Kapil</h1>
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
-<img align="center" alt="GIF" width="50%" height="50%" style="position:absolute" frameBorder="0" src="C:\Users\DELL\Pictures\Screenshots\linkedin profil.png" />
+
+<img align="center" alt="GIF" width="50%" height="50%" style="position:absolute" frameBorder="0" src="linkedin profil.png" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi31kapil&label=Profile%20views&color=0e75b6&style=flat" alt="aditi31kapil" /> </p>
